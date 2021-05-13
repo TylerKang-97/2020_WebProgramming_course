@@ -1,3 +1,3 @@
 # 2019_WebProgramming_course [backup_필요]
 #SpringFramework #Board #User
-# 미완성
+# 30% backing up
